@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "347454405587",
+    "project_id": "e-commerseapp-7b279",
+    "storage_bucket": "e-commerseapp-7b279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347454405587:android:0bd337b099e3905df20d26",
+        "android_client_info": {
+          "package_name": "com.example.danastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347454405587-3i776neb06i51o6cts6ps5qkm5pr13mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danastore",
+            "certificate_hash": "2ad5e737689b0f60056fa2b71195bd3fea08ac25"
+          }
+        },
+        {
+          "client_id": "347454405587-1dhsucbafl0cra2ongdr62hm0ej5nvts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhWPHfDBGItzM6BaEijM4E7D-HdlTSzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347454405587-1dhsucbafl0cra2ongdr62hm0ej5nvts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347454405587-re9q427siknpq4ln7np60ft9jq87g65j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.danastore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347454405587:android:c361d7fee584892df20d26",
+        "android_client_info": {
+          "package_name": "com.example.danastoreadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347454405587-1dhsucbafl0cra2ongdr62hm0ej5nvts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhWPHfDBGItzM6BaEijM4E7D-HdlTSzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347454405587-1dhsucbafl0cra2ongdr62hm0ej5nvts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347454405587-re9q427siknpq4ln7np60ft9jq87g65j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.danastore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
